@@ -54,7 +54,6 @@ main {
 .tempo {
     color: white;
     background-color: black;
-    letter-spacing: 3px;
     text-align: center;
     width: 150px;
     height: 150px;
@@ -68,6 +67,10 @@ main {
 
 main h1 {
     font-size: 65px;
+}
+
+.tempo p {
+    letter-spacing: 3px;
 }
 
 footer {
